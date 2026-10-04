@@ -1,13 +1,13 @@
 {
-    "version":  "11.5",
-    "bin":  "EnerIQ_V11.5.bin",
-    "md5":  "728be159f011bf9610ee5c371359bced",
-    "size":  1828224,
+    "version":  "11.6",
+    "bin":  "EnerIQ_V11.6.bin",
+    "md5":  "fffc81da9631965035dcf86ad57c30b9",
+    "size":  1829104,
     "date":  "04.10.2026",
     "notes":  [
-                  "Zeitzone fest auf Mitteleuropa mit automatischer Sommerzeit, keine Internet-Erkennung mehr",
-                  "Debug-Zeitstempel stimmen nach einem Neustart sofort",
-                  "Ohne Internet wird die Uhrzeit aus dem GPS übernommen",
-                  "Startseite zeigt die Zykluszeit der Hauptschleife"
+                  "Einheitliches Design aller Webseiten im Stil der Debug-Konsole",
+                  "Neue Startseite mit Kacheln und Terminal-Schaltern",
+                  "WLAN-Seite mit Rückweg zur Startseite",
+                  "Zeitzone fest, Uhrzeit auch aus GPS"
               ]
 }
