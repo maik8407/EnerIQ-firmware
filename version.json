@@ -1,12 +1,12 @@
 {
-    "version":  "11.1",
-    "bin":  "EnerIQ_V11.1.bin",
-    "md5":  "495172c599b70120195df31e050e774c",
-    "size":  1827008,
-    "date":  "01.10.2026",
+    "version":  "11.4",
+    "bin":  "EnerIQ_V11.4.bin",
+    "md5":  "e0c8eadc29bf0942c38cb2890600088b",
+    "size":  1841104,
+    "date":  "04.10.2026",
     "notes":  [
-                  "Online-Update: Prüfung bei jedem Start, Installation per Klick oder MQTT",
-                  "Automatischer Rollback, falls eine neue Firmware nicht sauber startet",
-                  "Neue Update-Seite im Stil der Weboberfläche"
+                  "Startseite zeigt die Zykluszeit der Hauptschleife (Durchschnitt, Maximum, Durchläufe pro Sekunde)",
+                  "ORCA: AIS-Schiffe vom AIS-Empfänger (z. B. Maiana) werden an die App geschickt",
+                  "ORCA: Simulationsmodus mit Test-Schiffen vor Urk"
               ]
 }
