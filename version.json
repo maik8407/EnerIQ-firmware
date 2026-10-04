@@ -1,13 +1,12 @@
 {
-    "version":  "11.6",
-    "bin":  "EnerIQ_V11.6.bin",
-    "md5":  "fffc81da9631965035dcf86ad57c30b9",
-    "size":  1829104,
+    "version":  "11.7",
+    "bin":  "EnerIQ_V11.7.bin",
+    "md5":  "0a7d80ec2bccfd4ad840d39aa11c9aa6",
+    "size":  1833760,
     "date":  "04.10.2026",
     "notes":  [
-                  "Einheitliches Design aller Webseiten im Stil der Debug-Konsole",
-                  "Neue Startseite mit Kacheln und Terminal-Schaltern",
-                  "WLAN-Seite mit Rückweg zur Startseite",
+                  "Hell/Dunkel-Umschalter (◐) oben rechts auf jeder Seite",
+                  "Einheitliches Design aller Webseiten, neue Startseite",
                   "Zeitzone fest, Uhrzeit auch aus GPS"
               ]
 }
