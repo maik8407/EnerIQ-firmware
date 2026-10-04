@@ -1,12 +1,13 @@
 {
-    "version":  "11.4",
-    "bin":  "EnerIQ_V11.4.bin",
-    "md5":  "e0c8eadc29bf0942c38cb2890600088b",
-    "size":  1841104,
+    "version":  "11.5",
+    "bin":  "EnerIQ_V11.5.bin",
+    "md5":  "728be159f011bf9610ee5c371359bced",
+    "size":  1828224,
     "date":  "04.10.2026",
     "notes":  [
-                  "Startseite zeigt die Zykluszeit der Hauptschleife (Durchschnitt, Maximum, Durchläufe pro Sekunde)",
-                  "ORCA: AIS-Schiffe vom AIS-Empfänger (z. B. Maiana) werden an die App geschickt",
-                  "ORCA: Simulationsmodus mit Test-Schiffen vor Urk"
+                  "Zeitzone fest auf Mitteleuropa mit automatischer Sommerzeit, keine Internet-Erkennung mehr",
+                  "Debug-Zeitstempel stimmen nach einem Neustart sofort",
+                  "Ohne Internet wird die Uhrzeit aus dem GPS übernommen",
+                  "Startseite zeigt die Zykluszeit der Hauptschleife"
               ]
 }
