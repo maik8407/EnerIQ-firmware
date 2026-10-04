@@ -1,12 +1,15 @@
 {
-    "version":  "11.7",
-    "bin":  "EnerIQ_V11.7.bin",
-    "md5":  "0a7d80ec2bccfd4ad840d39aa11c9aa6",
-    "size":  1833760,
+    "version":  "11.14",
+    "bin":  "EnerIQ_V11.14.bin",
+    "md5":  "6415d3109455a15902ec28124b1e6760",
+    "size":  1951216,
     "date":  "04.10.2026",
     "notes":  [
-                  "Hell/Dunkel-Umschalter (◐) oben rechts auf jeder Seite",
-                  "Einheitliches Design aller Webseiten, neue Startseite",
-                  "Zeitzone fest, Uhrzeit auch aus GPS"
+                  "Böe: höchster Wind der letzten 10 min (auch auf der Uhr)",
+                  "Simulationsmodus: Wind dreht rund, Böen, Batterie simuliert",
+                  "Scheinbarer Wind für die Pixel-Watch-App",
+                  "eneriq.local wieder erreichbar (mDNS)",
+                  "Logbuch, Polaren lernen, Batteriegesundheit",
+                  "JSON-API für die Uhr-App"
               ]
 }
