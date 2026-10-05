@@ -1,15 +1,11 @@
 {
-    "version":  "11.14",
-    "bin":  "EnerIQ_V11.14.bin",
-    "md5":  "6415d3109455a15902ec28124b1e6760",
-    "size":  1951216,
-    "date":  "04.10.2026",
+    "version":  "11.15",
+    "bin":  "EnerIQ_V11.15.bin",
+    "md5":  "4e779d1efa5578a29f63aea59e00bfcd",
+    "size":  1953216,
+    "date":  "05.10.2026",
     "notes":  [
-                  "Böe: höchster Wind der letzten 10 min (auch auf der Uhr)",
-                  "Simulationsmodus: Wind dreht rund, Böen, Batterie simuliert",
-                  "Scheinbarer Wind für die Pixel-Watch-App",
-                  "eneriq.local wieder erreichbar (mDNS)",
-                  "Logbuch, Polaren lernen, Batteriegesundheit",
-                  "JSON-API für die Uhr-App"
+                  "Logbuch-Messreihe: alle 10 Minuten Spannung, Strom, Ladezustand, Position, Fahrt, Kurs, Wind und Luftdruck (für die Diagramme der Handy-App)",
+                  "Flash-Schutz: bei knappem Speicher werden zuerst alte Messreihen gelöscht"
               ]
 }
