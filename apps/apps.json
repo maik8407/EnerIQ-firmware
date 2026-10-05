@@ -1,0 +1,14 @@
+{
+  "phone": {
+    "versionCode": 3,
+    "versionName": "1.2",
+    "apk": "https://raw.githubusercontent.com/maik8407/EnerIQ-firmware/main/apps/EnerIQ-Handy-1.2.apk",
+    "notes": "Updates direkt aus der App (Einstellungen › Nach Update suchen). Dazu Törns, Positionstabelle mit Ortsangabe und Wind auf der Karte."
+  },
+  "watch": {
+    "versionCode": 2,
+    "versionName": "1.1",
+    "apk": "https://raw.githubusercontent.com/maik8407/EnerIQ-firmware/main/apps/EnerIQ-Uhr-1.1.apk",
+    "notes": "Updates direkt aus der App (Einstellungen › App-Update)."
+  }
+}
