@@ -1,11 +1,10 @@
 {
-    "version":  "11.15",
-    "bin":  "EnerIQ_V11.15.bin",
-    "md5":  "4e779d1efa5578a29f63aea59e00bfcd",
-    "size":  1953216,
-    "date":  "05.10.2026",
+    "version":  "11.17",
+    "bin":  "EnerIQ_V11.17.bin",
+    "md5":  "c8c3a47090f3c9ae088f658a6d00747a",
+    "size":  1964640,
+    "date":  "14.10.2026",
     "notes":  [
-                  "Logbuch-Messreihe: alle 10 Minuten Spannung, Strom, Ladezustand, Position, Fahrt, Kurs, Wind und Luftdruck (für die Diagramme der Handy-App)",
-                  "Flash-Schutz: bei knappem Speicher werden zuerst alte Messreihen gelöscht"
+                  "Live-Link: Bootsname, Verbindung zum Server abschaltbar, AIS-Radar mit einstellbarem Radius,Live-Link: geschätzter Datenverbrauch und Link für Freunde zum Kopieren im Setup"
               ]
 }
