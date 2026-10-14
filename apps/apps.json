@@ -1,9 +1,9 @@
 {
   "phone": {
-    "versionCode": 3,
-    "versionName": "1.2",
-    "apk": "https://raw.githubusercontent.com/maik8407/EnerIQ-firmware/main/apps/EnerIQ-Handy-1.2.apk",
-    "notes": "Updates direkt aus der App (Einstellungen › Nach Update suchen). Dazu Törns, Positionstabelle mit Ortsangabe und Wind auf der Karte."
+    "versionCode": 4,
+    "versionName": "1.3",
+    "apk": "https://raw.githubusercontent.com/maik8407/EnerIQ-firmware/main/apps/EnerIQ-Handy-1.3.apk",
+    "notes": "Neu: Karte „Live-Karte für Freunde“ auf der Startseite mit „Link teilen“ und „Kopieren“."
   },
   "watch": {
     "versionCode": 2,
