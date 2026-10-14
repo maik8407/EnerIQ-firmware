@@ -1,11 +1,11 @@
 {
-    "version":  "11.17",
-    "bin":  "EnerIQ_V11.17.bin",
-    "md5":  "c8c3a47090f3c9ae088f658a6d00747a",
-    "size":  1964640,
+    "version":  "11.18",
+    "bin":  "EnerIQ_V11.18.bin",
+    "md5":  "33a1a8adfa1fc1ebca4d05967ed77990",
+    "size":  1964672,
     "date":  "14.10.2026",
     "notes":  [
-                  "Live-Link: Bootsname, Verbindung zum Server abschaltbar, AIS-Radar mit einstellbarem Radius",
-                  "Live-Link: geschätzter Datenverbrauch und Link für Freunde zum Kopieren im Setup"
+                  "Live-Link: Speicherleck behoben (EnerIQ wurde nach ca. 10 Minuten Senden langsam und startete neu)",
+                  "Enthält alle Neuerungen aus V11.17: Bootsname, Server-Schalter, AIS-Radar, Datenverbrauch, Link für Freunde"
               ]
 }
