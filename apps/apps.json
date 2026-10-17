@@ -1,9 +1,9 @@
 {
   "phone": {
-    "versionCode": 5,
-    "versionName": "1.4",
-    "apk": "https://raw.githubusercontent.com/maik8407/EnerIQ-firmware/main/apps/EnerIQ-Handy-1.4.apk",
-    "notes": "Neu: Fotos auf die Live-Karte hochladen (wählen oder aufnehmen, mit Bildunterschrift). Die Live-Karte ist jetzt unter Einstellungen; dort einmal den Schlüssel des Servers eintragen."
+    "versionCode": 6,
+    "versionName": "1.5",
+    "apk": "https://raw.githubusercontent.com/maik8407/EnerIQ-firmware/main/apps/EnerIQ-Handy-1.5.apk",
+    "notes": "Neu: Logbuchtage lassen sich ausblenden statt löschen (kommen beim Laden vom EnerIQ nicht wieder) und unter Logbuch › Ausgeblendete Tage zurückholen."
   },
   "watch": {
     "versionCode": 2,
