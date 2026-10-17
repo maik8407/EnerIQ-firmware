@@ -1,13 +1,10 @@
 {
-    "version":  "11.19",
-    "bin":  "EnerIQ_V11.19.bin",
-    "md5":  "bd32ea67eb3c23845b07e531ce3440a8",
-    "size":  1965680,
-    "date":  "14.10.2026",
+    "version":  "11.21",
+    "bin":  "EnerIQ_V11.21.bin",
+    "md5":  "e9f27635d5421461a9fb1df20c45ca75",
+    "size":  1965808,
+    "date":  "17.10.2026",
     "notes":  [
-                  "Online-Update robuster: wartet beim Start länger aufs WLAN und versucht Prüfung und Download bis zu dreimal",
-                  "Simulationsmodus als allgemeine Einstellung oben unter Setup › Basis",
-                  "Setup: Akkordeons bleiben beim Öffnen geschlossen",
-                  "Enthält alle Neuerungen aus V11.17 und V11.18 (Live-Link)"
+                  "Debug: minHeapRun/minBlockRun seit Start"
               ]
 }
